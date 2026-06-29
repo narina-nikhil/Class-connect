@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Transparent Background Shadow -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M 34 38 L 74 38 L 74 78 L 34 78 Z" />
+    <!-- Clock/Calendar Agenda Vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#EEF2F6"
+        android:strokeWidth="1.5"
+        android:pathData="M30,26h48c3.3,0,6,2.7,6,6v44c0,3.3,-2.7,6,-6,6H30c-3.3,0,-6,-2.7,-6,-6V32C24,28.7,26.7,26,30,26z" />
+    <!-- Top Binding Header -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,26h48c3.3,0,6,2.7,6,6v8H24v-8C24,28.7,26.7,26,30,26z"/>
+    <!-- Binder Rings -->
+    <path
+        android:fillColor="#131D2F"
+        android:pathData="M34,22h4v8h-4z M46,22h4v8h-4z M58,22h4v8h-4z M70,22h4v8h-4z" />
+    <!-- Book/Calendar Lines -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M32,46h44v4H32z M32,56h32v4H32z M32,66h20v4H32z" />
+    <!-- Dynamic Checkmark or Star in corner -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M66,54 l-8,8 -4,-4 -2.8,2.8 6.8,6.8 10.8,-10.8z" />
+</vector>

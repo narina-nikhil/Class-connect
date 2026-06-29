@@ -1,0 +1,6 @@
+{
+  "name": "ClassConnect",
+  "description": "An offline, privacy-first classroom timetable planner with text-to-speech, speech commands, and device sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
